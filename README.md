@@ -8,7 +8,7 @@ For the Trained Random Forest on a new dataset, note that the dataset mustn't ha
 
 Cite each script separately as:
 
-Wassermann, Dr. Joachim (2025a). jane_Array-MTR.py. url: https://github.com/nrichels/Script-seismic_event_classification/blob/main/jane_Array-MTR.py.
+Wassermann, Dr. Joachim (2025). jane_Array-MTR.py. url: https://github.com/nrichels/Script-seismic_event_classification/blob/main/jane_Array-MTR.py.
 
 Richels, Nicole Katrin and Dr. Joachim Wassermann (2025). fk_trig.py. url: https://github.com/nrichels/Script--seismic_event_classification/blob/main/fk_trig.py.
 
